@@ -1,10 +1,10 @@
 {
     "1": {
-        "musteri1": [
-            {
-                "urunanahtar": "trabzon"
-            }
-        ],
-        
-    },
+        "musteri1": 
+            [
+                {
+                 "urunanahtar": "trabzon"
+                }
+             ],  
+        }
 }
