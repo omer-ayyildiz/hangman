@@ -1,21 +1,10 @@
 {
-    "a benzersiz id": {
-        "chat benzersiz": [
+    "1": {
+        "musteri1": [
             {
-                "urunanahtar": "asdfghj"
+                "urunanahtar": "trabzon"
             }
         ],
-        "acil recete benzersiz": [
-            {
-                "urunanahtar": "dfghjklş"
-            }
-        ]
+        
     },
-    "b benzersizid": {
-        "chat benzersiz": [
-            {
-                "urunanahtar": "1234567890*"
-            }
-        ]
-    }
 }
